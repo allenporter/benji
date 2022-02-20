@@ -4,7 +4,7 @@ benji:
   image:
     registry: ghcr.io
     repository: elemental-lf/benji-k8s
-    tag: latest
+    tag: master
     pullPolicy: Always
 
   resources: {}
